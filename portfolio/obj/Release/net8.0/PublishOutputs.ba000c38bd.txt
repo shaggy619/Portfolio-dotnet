@@ -1,0 +1,7 @@
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.exe
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.dll
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.deps.json
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.runtimeconfig.json
+D:\Code\Dot Net Core\Day 8\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.pdb
